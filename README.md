@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Natthapong Phromchatree
 
-### 🎯 System Engineer | Veeam Specialist | Cloud Migration & IaaS Operations
+### 🎯 System Engineer | Veeam & Data Protection | Cloud Migration & IaaS Operations
 
-🚀 I’m an Infrastructure & Cloud Engineer with **5+ years of experience** specializing in provider-side IaaS environments, enterprise data protection, and cross-platform migrations. 
+🚀 I’m an Infrastructure & System Engineer with **5+ years of experience** specializing in provider-side IaaS environments, enterprise data protection, and cross-platform migrations. 
 
 **What I do:**
-- **Cloud Migration & IaaS:** Deploying and migrating workloads across ZStack, Nutanix, VMware vSphere, and Hyper-V.
-- **Enterprise Backup & DR:** Architecting resilient backup strategies using Veeam (v10-v13), Nakivo, and HPE StoreOnce (Immutable Storage).
-- **Core Infrastructure:** Managing Windows Server 2025, Linux (Ubuntu, SUSE), Active Directory, and SQL Clusters.
+- **Hypervisor & Cloud Migration & IaaS:** Deploying and migrating workloads across ZStack, Nutanix, VMware vSphere, PROXMOX, and Hyper-V.
+- **Enterprise Backup & DR:** Architecting resilient backup strategies using Veeam (v10-v13), Linux linux hardening and HPE StoreOnce (Immutable Storage).
+- **Core Infrastructure:** Managing Windows Server 2025, Linux (Ubuntu, SUSE), Active Directory, Entra ID, Google Cloud Directory Sync and SQL Clusters.
 - **Security & Automation:** Implementing Endpoint Security (Kaspersky Next EDR, CrowdStrike) and automating routine tasks with PowerShell.
 
 🔧 **Current Focus & Interests:**
